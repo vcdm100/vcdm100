@@ -1,3 +1,5 @@
 ## 👋 Olá, me chamo Victor Cláudio! :hourglass_flowing_sand:
 ### Bem-vindo ao meu perfil do Github. :wink:
-Não posso deixar de dizer que sou uma apaixonado por tecnologia
+
+## Sobre Victor
+Estou sempre em busca de aprender, adoro descobrir todas as coisas novase e muito apaixonado por tecnologia.
