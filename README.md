@@ -1,2 +1,2 @@
-# Olá, me chamo Victor Cláudio! :hourglass_flowing_sand:
-### Bem-vindo ao meu perfil GitHub 👋😉
+## 👋 Olá, me chamo Victor Cláudio! :hourglass_flowing_sand:
+### Bem-vindo ao meu perfil do Github. :wink:
