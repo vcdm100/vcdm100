@@ -4,11 +4,11 @@
 ## Sobre mim
 Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito apaixonado por tecnologia.
 - 💼 Atualmente trabalho meio período em home office em uma empresa de impermeabilização;
-- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript;
+- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS e JavaScript;
 - 🧲 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
-- 
+- 📫 Como entrar em contato comigo: vitaomoura100@gmail.com
 
-
+Estou à procura de novos desafios profissionais buscando uma efetivação no mercado, visando o desenvolvimento de um todo o trabalho e claro gerando resultados.
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ...
