@@ -8,11 +8,11 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
 - 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020.2;
 - 💼 Atualmente trabalho meio período em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
-- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS e JavaScript;
 - 💖 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
+- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS e JavaScript.
 
 ## 🎯 Objetivo
-Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma.
+<p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
 
 ## 🛠 Tecnologias e Ferramentas utilizadas
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -32,7 +32,26 @@ Busco mais experiências desafiadoras na área em que obtenho conhecimento, faze
 <a href="https://api.whatsapp.com/send?phone=5581982428445" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
-## ⚙️ Minhas estatísticas do GitHub
+## 🧠 Competências
+### ✔️ Qualificações Pessoais
+👉🏽 `Criatividade` 80% <br/>
+👉🏽 `Organização` 100% <br/>
+👉🏽 `Comunicação` 70% <br/>
+👉🏽 `Pontualidade` 100% <br/>
+👉🏽 `Assiduidade` 100% <br/>
+👉🏽 `Motivação` 90% <br/>
+👉🏽 `Conduta Ética` 100% <br/>
+### ✔️ Qualificações Profissionais
+👉🏽 `Pacote Office` 95% <br/>
+👉🏽 `Informática` 90% <br/>
+👉🏽 `HTML, CSS e JS` 80% <br/>
+👉🏽 `Finanças e Investimentos` 90% <br/>
+👉🏽 `Fotografia` 95% <br/>
+👉🏽 `Planejamento e Cronogramas` 85% <br/>
+👉🏽 `AutoCAD` 95% <br/>
+👉🏽 `Revit` 50% <br/>
+
+## ⚙️ Estatísticas do Github
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vcdm100&show_icons=true&theme=vision-friendly-dark" alt="vcdm100's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vcdm100&show_icons=true&theme=vision-friendly-dark" alt="vcdm100 stats"/>
 </p>
