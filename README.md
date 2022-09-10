@@ -7,7 +7,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
 - 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020.2;
-- 💼 Atualmente trabalho meio período em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
+- 💼 Atualmente trabalho meio período em home office em uma empresa de impermeabilização, no cargo de Analista de projetos;
 - 💖 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
 - 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS e JavaScript.
 
