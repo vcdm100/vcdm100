@@ -55,5 +55,5 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 
 ## ⚙️ Estatísticas do Github
 <p align="left">
-
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vcdm100&show_icons=true&theme=vision-friendly-dark" alt="vcdm100 stats"/>
 </p>
