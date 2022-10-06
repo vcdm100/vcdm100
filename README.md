@@ -46,7 +46,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 ### ✔️ Qualificações Profissionais
 👉🏽 `Pacote Office` 95% <br/>
 👉🏽 `Informática` 90% <br/>
-👉🏽 `HTML, CSS e JS` 80% <br/>
+👉🏽 `Front-End` 80% <br/>
 👉🏽 `Finanças e Investimentos` 90% <br/>
 👉🏽 `Fotografia` 95% <br/>
 👉🏽 `Planejamento e Cronogramas` 85% <br/>
