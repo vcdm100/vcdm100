@@ -3,7 +3,7 @@
 
 ## Sobre mim
 Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito apaixonado por tecnologia.
-- 🙋🏽‍♂️ Brasileiro, Solteiro, 23 anos e Nascido em Recife-PE;
+- 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE;
 - 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
 - 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020.2;
