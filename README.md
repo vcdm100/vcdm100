@@ -9,7 +9,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020.2;
 - 💼 Atualmente trabalho meio período em home office em uma empresa de impermeabilização, no cargo de Analista de projetos;
 - 💖 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
-- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS e JavaScript.
+- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript e mais.
 
 ## 🎯 Objetivo
 <p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
@@ -22,6 +22,10 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
+<code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
+<code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
+
 
 ## 📫 Contatos
 <div>
