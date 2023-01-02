@@ -7,10 +7,11 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
 - 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020.2;
-- 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Faculdade Estácio, previsão de término de curso em 2025.
-- 💼 Atualmente trabalho meio período em home office em uma empresa de impermeabilização, no cargo de Analista de projetos;
+- 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Universidade Estácio de Sá - EAD, previsão de término de curso em março de 2025.
+- 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
+- 💼 Atualmente trabalho voluntário em Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
 - 💖 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
-- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript e mais.
+- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript e mais ferramentas.
 
 ## 🎯 Objetivo
 <p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
