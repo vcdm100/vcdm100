@@ -11,7 +11,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
 - 💼 Atualmente trabalho voluntário em Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
 - 💖 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
-- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript e mais ferramentas.
+- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript, Java e mais ferramentas.
 
 ## 🎯 Objetivo
 <p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
@@ -20,6 +20,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="30px" src="https://vetores.org/d/java.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title = "JQUERY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT.JS"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title = "VITE"/></code>
@@ -29,6 +30,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 <code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
 <code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
 <code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
+
 
 ## 📫 Contatos
 <div>
