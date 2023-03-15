@@ -10,7 +10,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Universidade Estácio de Sá - EAD, previsão de término de curso em março de 2025.
 - 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
 - 💼 Atualmente trabalho voluntário em Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
-- 💖 Estou interessado em Desenvolvimento Web Front-end 💻, Investimentos 📈 e Fotografia 📸;
+- 💖 Estou interessado em Desenvolvimento Web 💻, Investimentos 📈 e Fotografia 📸;
 - 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript, Java e mais ferramentas.
 
 ## 🎯 Objetivo
