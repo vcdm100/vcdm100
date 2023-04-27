@@ -56,6 +56,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 👉🏽 `Pacote Office` 95% <br/>
 👉🏽 `Informática` 90% <br/>
 👉🏽 `Front-End` 80% <br/>
+👉🏽 `Back-End` 65% <br/>
 👉🏽 `Finanças e Investimentos` 90% <br/>
 👉🏽 `Fotografia` 95% <br/>
 👉🏽 `Planejamento e Cronogramas` 85% <br/>
