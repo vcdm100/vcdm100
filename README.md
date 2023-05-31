@@ -12,7 +12,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 💼 Atualmente trabalho voluntário em Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
 - 🧠 Possuo alguns certificados de cursos complementares para aprofundar os meus conhecimentos e desenvolver sempre um trabalho de qualidade pessoal e profissional.
 - 💖 Estou interessado em Desenvolvimento Web 💻, Investimentos 📈 e Fotografia 📸;
-- 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript, Java e mais ferramentas.
+- 📚 Atualmente estou aprendendo em programação informática.
 
 ## 🎯 Objetivo
 <p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
