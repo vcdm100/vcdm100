@@ -6,10 +6,11 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE;
 - 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
-- 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020.2;
+- 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020;
 - 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Universidade Estácio de Sá - EAD, previsão de término de curso em março de 2025.
 - 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
 - 💼 Atualmente trabalho voluntário em Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
+- 🧠 Possuo alguns certificados de cursos complementares para aprofundar os meus conhecimentos e desenvolver sempre um trabalho de qualidade pessoal e profissional.
 - 💖 Estou interessado em Desenvolvimento Web 💻, Investimentos 📈 e Fotografia 📸;
 - 📚 Atualmente estou aprendendo em programação, estudando HTML, CSS, JavaScript, Java e mais ferramentas.
 
@@ -29,6 +30,9 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 <code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" title = "NODE.JS"/></code>
 <code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
 <code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
+<code><img width="40px" src="https://dbeaver.com/img/dbeaver-head.png" title = "DBeaver"/></code>
+<code><img width="40px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "Insomnia"/></code>
+<code><img width="30px" src="https://3.bp.blogspot.com/--IDvjPRCaic/Vs9FDDfvHOI/AAAAAAAABDU/5umla_6QjBI/s1600/Eclipse-luna.png" title = "Eclipse"/></code>
 <code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
 
 
