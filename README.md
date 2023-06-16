@@ -32,9 +32,9 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 <code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
 <code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
 <code><img width="40px" src="https://dbeaver.com/img/dbeaver-head.png" title = "DBeaver"/></code>
+<code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "Insomnia"/></code>
 <code><img width="30px" src="https://3.bp.blogspot.com/--IDvjPRCaic/Vs9FDDfvHOI/AAAAAAAABDU/5umla_6QjBI/s1600/Eclipse-luna.png" title = "Eclipse"/></code>
-<code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
 
 
 ## 📫 Contatos
