@@ -9,7 +9,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020;
 - 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Universidade Estácio de Sá - EAD, previsão de término de curso em março de 2025.
 - 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
-- 💼 Atualmente trabalho voluntário em Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
+- 💼 Atualmente trabalho voluntário na Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
 - 🧠 Possuo alguns certificados de cursos complementares para aprofundar os meus conhecimentos e desenvolver sempre um trabalho de qualidade pessoal e profissional.
 - 💖 Estou interessado em Desenvolvimento Web 💻, Investimentos 📈 e Fotografia 📸;
 - 📚 Atualmente estou estudando em informática e programação.
