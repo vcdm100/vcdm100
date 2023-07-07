@@ -6,13 +6,11 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 - 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE;
 - 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
-- 🎓 Me formei no Curso Superior de GRADUAÇÃO - Bacharelado em Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020;
+- 🎓 Me formei no curso superior de Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020;
 - 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Universidade Estácio de Sá - EAD, previsão de término de curso em março de 2025.
-- 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos;
-- 💼 Atualmente trabalho voluntário na Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
+- 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos. E também trabalho voluntário na Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo.
 - 🧠 Possuo alguns certificados de cursos complementares para aprofundar os meus conhecimentos e desenvolver sempre um trabalho de qualidade pessoal e profissional.
-- 💖 Estou interessado em Desenvolvimento Web 💻, Investimentos 📈 e Fotografia 📸;
-- 📚 Atualmente estou estudando em informática e programação.
+- 💖 Estou interessado em Informática/Programação 💻, Investimentos 📈 e Fotografia 📸;
 
 ## 🎯 Objetivo
 <p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
@@ -62,7 +60,7 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 👉🏽 `Pacote Office` 95% <br/>
 👉🏽 `Informática` 90% <br/>
 👉🏽 `Front-End` 80% <br/>
-👉🏽 `Back-End` 65% <br/>
+👉🏽 `Back-End` 75% <br/>
 👉🏽 `Finanças e Investimentos` 90% <br/>
 👉🏽 `Fotografia` 95% <br/>
 👉🏽 `Planejamento e Cronogramas` 85% <br/>
