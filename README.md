@@ -64,8 +64,6 @@ Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito
 👉🏽 `Finanças e Investimentos` 90% <br/>
 👉🏽 `Fotografia` 95% <br/>
 👉🏽 `Planejamento e Cronogramas` 85% <br/>
-👉🏽 `AutoCAD` 95% <br/>
-👉🏽 `Revit` 50% <br/>
 
 ## ⚙️ Estatísticas do Github
 <p align="left">
