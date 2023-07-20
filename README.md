@@ -2,7 +2,7 @@
 ### Bem-vindo ao meu perfil do Github. :wink:
 
 ## Sobre mim
-Estou sempre em busca de aprender, adoro descobrir todas as coisas novas e muito apaixonado por tecnologia.
+Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecnologia e  fascinado por conhecer coisas novas.
 - 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE;
 - 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
 - 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
