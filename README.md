@@ -3,17 +3,16 @@
 
 ## Sobre mim
 Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecnologia e  fascinado por conhecer coisas novas.
-- 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE;
-- 🦻🏽 Deficiente Auditivo Bilateral e/ou Surdo;
-- 👷🏽‍♂️ Engenheiro Civil, possuo um registro profissional no CREA-PE;
-- 🎓 Me formei no curso superior de Engenharia Civil por Universidade Católica de Pernambuco (UNICAP), concluído em 2020;
-- 📚 Atualmente estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) por Universidade Estácio de Sá - EAD, previsão de término de curso em março de 2025, para elevar os conhecimentos;
-- 💼 Atualmente trabalho autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos. E também trabalho voluntário na Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), da gestão de 2022 a 2026, no cargo de Diretor Administrativo;
-- 🧠 Possuo alguns certificados de cursos complementares para aprofundar os meus conhecimentos e desenvolver sempre um trabalho de qualidade pessoal e profissional;
-- 💖 Estou interessado em Informática/Programação 💻, Investimentos 📈 e Fotografia 📸
+- 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE.
+- 🦻🏽 Deficiente auditivo bilateral, ou seja, nasci surdo profundo.
+- 🎓 Formado em Engenharia Civil, possuo um registro profissional no CREA-PE.
+- 📚 Atualmente, estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Estácio de Sá, com previsão de término do curso em março de 2025, visando expandir meus conhecimentos.
+- 💼 Também trabalho como autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos. Além disso, exerço trabalho voluntário na Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), no período de gestão de 2022 a 2026, ocupando o cargo de Diretor Administrativo.
+- 🧠 Possuo alguns certificados de cursos complementares para aprofundar meus conhecimentos e sempre buscar desenvolver um trabalho de alta qualidade, tanto pessoal quanto profissional.
+- 💖 Estou interessado em Informática/Programação 💻, Investimentos 📈 e Fotografia 📸.
 
 ## 🎯 Objetivo
-<p> Busco mais experiências desafiadoras na área em que obtenho conhecimento, fazer parte desta empresa e poder ter oportunidades para desenvolver minhas habilidades e aprimorar minhas capacidades dentro da área de tecnologia e da engenharia e contribuir para o crescimento da organização e sucesso da mesma. </p>
+<p> Busco experiências mais desafiadoras na área em que obtenho conhecimento, desejo fazer parte desta empresa e ter oportunidades para desenvolver minhas habilidades, aprimorar minhas capacidades na área de tecnologia e engenharia, contribuindo para o crescimento e sucesso da organização. </p>
 
 ## 🛠 Tecnologias e Ferramentas utilizadas
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
