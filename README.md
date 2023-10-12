@@ -7,12 +7,12 @@ Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecn
 - 🦻🏽 Deficiente auditivo bilateral, ou seja, nasci surdo profundo.
 - 🎓 Formado em Engenharia Civil, possuo um registro profissional no CREA-PE.
 - 📚 Atualmente, estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Estácio de Sá, com previsão de término do curso em março de 2025, visando expandir meus conhecimentos.
-- 💼 Também trabalho como autônomo em home office em uma empresa de impermeabilização, no cargo de Analista de Projetos. Além disso, exerço trabalho voluntário na Diretoria da FPEDS (Federação Pernambucana Desportiva de Surdos), no período de gestão de 2022 a 2026, ocupando o cargo de Diretor Administrativo.
+- 💼 Assistente de Backend de Suporte Técnico.
 - 🧠 Possuo alguns certificados de cursos complementares para aprofundar meus conhecimentos e sempre buscar desenvolver um trabalho de alta qualidade, tanto pessoal quanto profissional.
 - 💖 Estou interessado em Informática/Programação 💻, Investimentos 📈 e Fotografia 📸.
 
 ## 🎯 Objetivo
-<p> Busco experiências mais desafiadoras na área em que obtenho conhecimento, desejo fazer parte desta empresa e ter oportunidades para desenvolver minhas habilidades, aprimorar minhas capacidades na área de tecnologia e engenharia, contribuindo para o crescimento e sucesso da organização. </p>
+<p> Busco experiências mais desafiadoras na área em que obtenho conhecimento, desejo fazer parte desta empresa e ter oportunidades para desenvolver minhas habilidades, aprimorar minhas capacidades na área de tecnologia, contribuindo para o crescimento e sucesso da organização. </p>
 
 ## 🛠 Tecnologias e Ferramentas utilizadas
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
