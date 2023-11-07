@@ -3,7 +3,7 @@
 
 ## Sobre mim
 Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecnologia e fascinado por conhecer coisas novas.
-- 🙋🏽‍♂️ Brasileiro, Solteiro, 24 anos e Nascido em Recife-PE.
+- 🙋🏽‍♂️ Brasileiro, Solteiro, 25 anos e Nascido em Recife-PE.
 - 🦻🏽 Deficiente auditivo bilateral, ou seja, nasci surdo profundo.
 - 🎓 Formado em Engenharia Civil, possuo um registro profissional no CREA-PE.
 - 📚 Atualmente, estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Estácio de Sá, com previsão de término do curso em março de 2025, visando expandir meus conhecimentos.
