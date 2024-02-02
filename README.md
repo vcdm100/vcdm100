@@ -19,15 +19,16 @@ Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecn
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" title = "PHP"/></code>
+<code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title = "HeidiSQL"/></code>
 <code><img width="30px" src="https://vetores.org/d/java.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title = "PYTHON"/></code>
+<code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title = "JQUERY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT.JS"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title = "VITE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" title = "NODE.JS"/></code>
-<code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
 <code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
 <code><img width="40px" src="https://dbeaver.com/img/dbeaver-head.png" title = "DBeaver"/></code>
 <code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
