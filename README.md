@@ -12,7 +12,7 @@ Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecn
 - 💖 Estou interessado em Informática/Programação 💻, Investimentos 📈 e Fotografia 📸.
 
 ## 🎯 Objetivo
-<p> Busco experiências mais desafiadoras na área em que obtenho conhecimento, desejo fazer parte desta empresa e ter oportunidades para desenvolver minhas habilidades, aprimorar minhas capacidades na área de tecnologia, contribuindo para o crescimento e sucesso da organização. </p>
+<p> Busco experiências mais desafiadoras na área em que obtenho conhecimento, desejo fazer parte desta empresa e ter oportunidades para desenvolver minhas habilidades, aprimorar minhas capacidades na área de tecnologia e engenharia, contribuindo para o crescimento e sucesso da organização. </p>
 
 ## 🛠 Tecnologias e Ferramentas utilizadas
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
