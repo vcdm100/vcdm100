@@ -5,7 +5,7 @@
 Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecnologia e fascinado por conhecer coisas novas.
 - 🙋🏽‍♂️ Brasileiro, Solteiro, 26 anos e Nascido em Recife-PE.
 - 🦻🏽 Deficiente auditivo bilateral, ou seja, nasci surdo profundo.
-- 🎓 Formado em Engenharia Civil, possuo um registro profissional no CREA-PE.
+- 🎓 Formado em Engenharia Civil, com registro profissional no CREA-PE.
 - 📚 Atualmente, estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Estácio de Sá, com previsão de término do curso em março de 2025, visando expandir meus conhecimentos.
 - 💼 Assistente de Backend de Suporte Técnico.
 - 🧠 Possuo alguns certificados de cursos complementares para aprofundar meus conhecimentos e sempre buscar desenvolver um trabalho de alta qualidade, tanto pessoal quanto profissional.
