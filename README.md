@@ -64,8 +64,8 @@ Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecn
 👉🏽 `Pacote Office` 95% <br/>
 👉🏽 `Informática` 90% <br/>
 👉🏽 `Front-End` 80% <br/>
-👉🏽 `Back-End` 75% <br/>
-👉🏽 `Finanças e Investimentos` 90% <br/>
+👉🏽 `Back-End` 85% <br/>
+👉🏽 `Finanças e Investimentos` 85% <br/>
 👉🏽 `Fotografia` 95% <br/>
 👉🏽 `Planejamento e Cronogramas` 85% <br/>
 
