@@ -36,7 +36,7 @@ Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecn
 <code><img width="40px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "Insomnia"/></code>
 <code><img width="40px" src="https://3.bp.blogspot.com/--IDvjPRCaic/Vs9FDDfvHOI/AAAAAAAABDU/5umla_6QjBI/s1600/Eclipse-luna.png" title = "Eclipse"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://yt3.googleusercontent.com/R6P5skGdZJeM1bebvt3ILeU8k-9tiqE5T198RmBH8SoGXH2gk_Lk-45uZoq6X6pW4a4c9Sqn=s900-c-k-c0x00ffffff-no-rj" title = "GitLab"/></code>
+<code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title = "GitLab"/></code>
 <code><img width="40px" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" title = "Docker"/></code>
 
 
