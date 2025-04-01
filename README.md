@@ -2,14 +2,14 @@
 ### Bem-vindo ao meu perfil do Github. :wink:
 
 ## Sobre mim
-Estou à disposição para novos aprendizados, sou apaixonado pelo mundo da tecnologia e fascinado por conhecer coisas novas.
-- 🙋🏽‍♂️ Brasileiro, Solteiro, 26 anos e Nascido em Recife-PE.
-- 🦻🏽 Deficiente auditivo bilateral, ou seja, nasci surdo profundo.
-- 🎓 Formado em Engenharia Civil, com registro profissional no CREA-PE.
-- 📚 Atualmente, estou cursando a segunda graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Estácio de Sá, com previsão de término do curso em março de 2025, visando expandir meus conhecimentos.
-- 💼 Assistente de Backend de Suporte Técnico.
-- 🧠 Possuo alguns certificados de cursos complementares para aprofundar meus conhecimentos e sempre buscar desenvolver um trabalho de alta qualidade, tanto pessoal quanto profissional.
-- 💖 Estou interessado em Informática/Programação 💻, Investimentos 📈 e Fotografia 📸.
+Sou apaixonado por tecnologia, sempre em busca de novos aprendizados e experiências que ampliem meu conhecimento.
+- 🙋🏽‍♂️ Brasileiro, 26 anos, solteiro, nascido em Recife-PE.
+- 🦻🏽 Surdo profundo de nascença (deficiência auditiva bilateral).
+- 🎓 Engenheiro Civil, com registro ativo no CREA-PE.
+- 💻 Analista e Desenvolvedor de Sistemas (ADS), formado com foco em expandir conhecimentos na área de tecnologia.
+- 💼 Atuo como Assistente de Backend em Suporte Técnico.
+- 📚 Possuo diversos certificados em cursos complementares, buscando sempre aprimorar minhas habilidades e entregar um trabalho de qualidade.
+- 💖 Interesses: Programação, Investimentos e Fotografia.
 
 ## 🎯 Objetivo
 <p> Busco experiências mais desafiadoras na área em que obtenho conhecimento, desejo fazer parte desta empresa e ter oportunidades para desenvolver minhas habilidades, aprimorar minhas capacidades na área de tecnologia e engenharia, contribuindo para o crescimento e sucesso da organização. </p>
