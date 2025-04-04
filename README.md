@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia, sempre em busca de novos aprendizados e experiên
 - 🦻🏽 Surdo profundo de nascença (deficiência auditiva bilateral).
 - 🎓 Engenheiro Civil, com registro ativo no CREA-PE.
 - 💻 Analista e Desenvolvedor de Sistemas (ADS), formado com foco em expandir conhecimentos na área de tecnologia.
-- 💼 Atuo como Assistente de Backend em Suporte Técnico.
+- 💼 Atuo como Programador Backend Júnior em Suporte Técnico.
 - 📚 Possuo diversos certificados em cursos complementares, buscando sempre aprimorar minhas habilidades e entregar um trabalho de qualidade.
 - 💖 Interesses: Programação, Investimentos e Fotografia.
 
