@@ -3,7 +3,7 @@
 
 ## Sobre mim
 Sou apaixonado por tecnologia, sempre em busca de novos aprendizados e experiências que ampliem meu conhecimento.
-- 🙋🏽‍♂️ Brasileiro, 26 anos, solteiro, nascido em Recife-PE.
+- 🙋🏽‍♂️ Brasileiro, 27 anos, solteiro, nascido em Recife-PE.
 - 🦻🏽 Surdo profundo de nascença (deficiência auditiva bilateral).
 - 🎓 Engenheiro Civil, com registro ativo no CREA-PE.
 - 💻 Analista e Desenvolvedor de Sistemas (ADS), formado com foco em expandir conhecimentos na área de tecnologia.
