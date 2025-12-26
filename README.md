@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir t
 
 ## 🎯 Objetivo profissional
 
-<p> Busco atuar em ambientes desafiadores na área de tecnologia, com foco no desenvolvimento backend, estabilidade de sistemas e melhoria contínua, contribuindo para o crescimento da organização por meio de soluções eficientes e bem estruturadas. </p>
+<p> Busco atuar em ambientes desafiadores na área de tecnologia, com foco em desenvolvimento backend, estabilidade e sustentação de sistemas, suporte técnico avançado e versionamento em produção, contribuindo com soluções organizadas, seguras e bem estruturadas para a confiabilidade e crescimento da empresa. </p>
 
 ## 🛠 Tecnologias e Ferramentas
 
