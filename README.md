@@ -16,14 +16,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir t
 
 ## 🎯 Objetivo profissional
 
-<p> Atuar em ambientes desafiadores na área de tecnologia, com foco em:
-
-* Desenvolvimento backend
-* Estabilidade e sustentação de sistemas
-* Análise de incidentes e causa raiz
-* Versionamento e pós-release em produção
-
-Busco contribuir com soluções organizadas, seguras e bem estruturadas, fortalecendo a confiabilidade e o crescimento dos sistemas.</p>
+<p> Atuar em ambientes desafiadores na área de tecnologia, com foco em Desenvolvimento backend. Busco contribuir com soluções organizadas, seguras e bem estruturadas, fortalecendo a confiabilidade e o crescimento dos sistemas.</p>
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -94,7 +87,7 @@ Busco contribuir com soluções organizadas, seguras e bem estruturadas, fortale
 * 🔍 Investigação de incidentes e identificação de causa raiz;
 * 📊 Análise técnica em logs, APIs e banco de dados;
 * ⚙️ Versionamento de sistemas (automáticos e manuais);
-* 🧪 Validação de ambientes e acompanhamento pós-release;
+* 🧪 Validação de ambientes produtivos e acompanhamento pós-release;
 * 🛠️ Correção de bugs e ajustes técnicos;
 * 📈 Geração de relatórios e consultas para tomada de decisão;
 * 🧩 Análise e manutenção de customizações por cliente.
