@@ -2,21 +2,28 @@
 
 ### Bem-vindo ao meu perfil no GitHub. :wink:
 
-Sou **Desenvolvedor Backend Júnior**, **Analista de Sistemas** e **Engenheiro Civil**, com atuação focada em tecnologia aplicada ao **e-commerce**, suporte técnico avançado e versionamento de sistemas.
+Sou **Desenvolvedor Backend Júnior**, com foco em e-commerce SaaS, suporte técnico avançado, análise de incidentes e versionamento de sistemas em produção.
 
 ## Sobre mim
 Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir tecnicamente e entregar soluções de qualidade.
 
-- 🦻🏽 Surdo profundo de nascença (deficiência auditiva bilateral).
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS).
-- 🏗️ Engenheiro Civil, com registro ativo no CREA-PE.
-- 💼 Atuação como Programador Backend Júnior.
-- 📚 Certificações complementares em tecnologia e desenvolvimento.
-- 💡 Interesses: Programação, Investimentos e Fotografia.
+- 🧏‍♂️ Pessoa surda (deficiência auditiva bilateral), com a tecnologia como principal meio de comunicação no ambiente profissional;
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS);
+- 🏗️ Engenheiro Civil, com registro ativo no CREA-PE;
+- 💼 Atuação como Programador Backend Júnior;
+- 📚 Formação contínua em tecnologia, desenvolvimento e boas práticas;
+- 💡 Interesses: Programação, Tecnologia, Investimentos e Evolução pessoal.
 
 ## 🎯 Objetivo profissional
 
-<p> Busco atuar em ambientes desafiadores na área de tecnologia, com foco em desenvolvimento backend, estabilidade e sustentação de sistemas, suporte técnico avançado e versionamento em produção, contribuindo com soluções organizadas, seguras e bem estruturadas para fortalecer a confiabilidade e crescimento da empresa. </p>
+<p> Atuar em ambientes desafiadores na área de tecnologia, com foco em:
+
+* Desenvolvimento backend
+* Estabilidade e sustentação de sistemas
+* Análise de incidentes e causa raiz
+* Versionamento e pós-release em produção
+
+Busco contribuir com soluções organizadas, seguras e bem estruturadas, fortalecendo a confiabilidade e o crescimento dos sistemas.</p>
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -81,6 +88,18 @@ Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir t
 <a href="https://www.linkedin.com/in/victor-cl%C3%A1udio-deosdede-moura-pcd-1845a5137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5581982428445" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
+
+## 🚀 Experiência prática
+
+* 🔍 Investigação de incidentes e identificação de causa raiz;
+* 📊 Análise técnica em logs, APIs e banco de dados;
+* ⚙️ Versionamento de sistemas (automáticos e manuais);
+* 🧪 Validação de ambientes e acompanhamento pós-release;
+* 🛠️ Correção de bugs e ajustes técnicos;
+* 📈 Geração de relatórios e consultas para tomada de decisão;
+* 🧩 Análise e manutenção de customizações por cliente.
+
+👉 Atuação direta em sistemas de e-commerce com impacto real em vendas, operação e experiência do cliente.
 
 ## 🧠 Competências
 
