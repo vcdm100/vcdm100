@@ -1,157 +1,245 @@
-## 👋 Olá, eu sou Victor Cláudio! :hourglass_flowing_sand:
+<div align="center">
 
-### Bem-vindo ao meu perfil no GitHub. :wink:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5f6f6f,50:57d68d,100:5ab0d1&section=header" />
 
-Sou **Desenvolvedor Backend Júnior**, com foco em e-commerce SaaS, suporte técnico avançado, análise de incidentes e versionamento de sistemas em produção.
+# 👋 Olá, eu sou Victor Cláudio! ⏳ :wink:
 
-## Sobre mim
-Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir tecnicamente e entregar soluções de qualidade.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Desenvolvedor+Backend+J%C3%BAnior+%7C+E-commerce+SaaS;Sustenta%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Sistemas+%7C+Versionamento+%26+P%C3%B3s-release;PHP+%7C+SQL+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+APIs+%7C+Git+%7C+Docker+%7C+Linux)](https://git.io/typing-svg)
 
-- 🧏‍♂️ Pessoa surda (deficiência auditiva bilateral), com a tecnologia como principal meio de comunicação no ambiente profissional;
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS);
-- 🏗️ Engenheiro Civil, com registro ativo no CREA-PE;
-- 💼 Atuação como Programador Backend Júnior;
-- 📚 Formação contínua em tecnologia, desenvolvimento e boas práticas;
-- 💡 Interesses: Programação, Tecnologia, Investimentos e Evolução pessoal.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vcdm100&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00c853&style=for-the-badge" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/vcdm100?style=for-the-badge&color=0077B5&label=Seguidores&logo=github" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/vcdm100?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0D1117&label=Stars&logo=github" alt="Stars" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+</div>
+
+## ✨ Sobre mim
+
+Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **suporte técnico avançado**, **análise de sistemas**, **versionamento**, **pós-release** e **sustentação de ambientes produtivos**.
+
+Tenho uma trajetória construída entre **Engenharia Civil** e **Tecnologia**, unindo raciocínio lógico, organização, visão analítica e foco em qualidade.
+
+Sou apaixonado por **tecnologia** e **aprendizado contínuo**, sempre buscando evoluir tecnicamente e entregar soluções com qualidade.
+
+- 🧏‍♂️ Pessoa **surda**, com comunicação profissional apoiada por tecnologia, escrita objetiva e acessibilidade;
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**;
+- 🏗️ Engenheiro Civil, com registro ativo no **CREA-PE**;
+- 💼 Cargo atual: **Programador Backend Júnior**;
+- 📚 Formação contínua em **tecnologia**, **desenvolvimento** e **boas práticas**;
+- 💡 Interesses: **programação**, **tecnologia**, **investimentos** e **evolução pessoal**.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🎯 Objetivo profissional
 
-<p> Atuar em ambientes desafiadores na área de tecnologia, com foco em Desenvolvimento backend. Busco contribuir com soluções organizadas, seguras e bem estruturadas, fortalecendo a confiabilidade e o crescimento dos sistemas.</p>
+Atuar na área de tecnologia com foco em **Desenvolvimento Backend**, contribuindo para a criação, manutenção e evolução de sistemas organizados, seguros, escaláveis e bem estruturados.
 
-## 🛠 Tecnologias e Ferramentas
+Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, raciocínio lógico e responsabilidade para entregar soluções com qualidade, confiabilidade e impacto real.
 
-### Linguagens e Tecnologias
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title = "PHP"/></code>
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title = "PYTHON"/></code>
-<code><img width="30" src="https://vetores.org/d/java.svg" title = "JAVA"/></code>
+## 🧠 Método Victor Tech
 
-### Banco de Dados
+<div align="center">
 
-<code><img width="60" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
-<code><img width="40" src="https://www.edivaldobrito.com.br/wp-content/uploads/2021/12/mariadb-mudou-a-programacao-em-seu-cronograma-de-lancamento.webp" title = "MariaDB"/></code>
-<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title = "HeidiSQL"/></code>
+| 👀 Observar | 🧠 Entender | 🛠️ Aplicar |
+|---|---|---|
+| Analiso o contexto, os sinais e os detalhes antes de tomar qualquer decisão. | Identifico a causa raiz, compreendo a lógica do problema e conecto as informações. | Aplico a solução de forma prática, clara e segura, validando o resultado. |
 
-### Ferramentas e Ambiente
+</div>
 
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title = "GITLAB"/></code>
-<code><img width="40" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title = "LINUX"/></code>
-<code><img width="40" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" title = "DOCKER"/></code>
-<code><img width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title = "POSTMAN"/></code>
+> **"Antes de agir, eu observo. Antes de resolver, eu entendo. Depois, aplico com lógica, responsabilidade e clareza."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 🛠️ Linguagens, Tecnologias e Ferramentas
+
+### 💻 Linguagens e Tecnologias
+
+<img src="https://skillicons.dev/icons?i=php,js,html,css,python,java" />
+
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql" /><img height="48" src="https://www.edivaldobrito.com.br/wp-content/uploads/2021/12/mariadb-mudou-a-programacao-em-seu-cronograma-de-lancamento.webp" title="MariaDB" />
+<img height="48" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver" />
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" />
+
+### ⚙️ Ferramentas e Ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman" />
+
 <!--<code><img width="40" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "INSOMIA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" title = "PHP"/></code>
-<code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title = "HeidiSQL"/></code>
-<code><img width="30px" src="https://vetores.org/d/java.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title = "PYTHON"/></code>
-<code><img width="40px" src="https://vetores.org/d/visual-studio-code.svg" title = "VS CODE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title = "JQUERY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT.JS"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title = "VITE"/></code>
 <code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" title = "NODE.JS"/></code>
 <code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
 <code><img width="40px" src="https://dbeaver.com/img/dbeaver-head.png" title = "DBeaver"/></code>
-<code><img width="60px" src="https://vetores.org/d/mysql.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" title = "DISCORD"/></code>
 <code><img width="40px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "Insomnia"/></code>
 <code><img width="40px" src="https://3.bp.blogspot.com/--IDvjPRCaic/Vs9FDDfvHOI/AAAAAAAABDU/5umla_6QjBI/s1600/Eclipse-luna.png" title = "Eclipse"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title = "GitLab"/></code>
-<code><img width="40px" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" title = "Docker"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title = "Postman"/></code>-->
+-->
 
-## 📫 Contatos
+<br>
 
-<div>
-<!--<a href="https://www.youtube.com/channel/UCY2J2onPoNyoaRyygv6A0yw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-<a href="https://www.facebook.com/Vcdm100/" target="_blank"><img src="https://img.shields.io/badge/facebook-1100FA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/vcdm100/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--<a href="https://twitter.com/Vcdm100" target="_blank"><img src="https://img.shields.io/badge/twitter-189DFA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>-->
-<a href = "mailto:vitaomoura100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-cl%C3%A1udio-deosdede-moura-pcd-1845a5137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send?phone=5581982428445" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitLab](https://img.shields.io/badge/GitLab-Versionamento-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![API](https://img.shields.io/badge/API-Integra%C3%A7%C3%B5es-0A66C2?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise%20e%20Dados-00618A?style=for-the-badge)
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🚀 Experiência prática
 
-* 🔍 Investigação de incidentes e identificação de causa raiz;
-* 📊 Análise técnica em logs, APIs e banco de dados;
-* ⚙️ Versionamento de sistemas (automáticos e manuais);
-* 🧪 Validação de ambientes produtivos e acompanhamento pós-release;
-* 🛠️ Correção de bugs e ajustes técnicos;
-* 📈 Geração de relatórios e consultas para tomada de decisão;
-* 🧩 Análise e manutenção de customizações por cliente.
+- 🔍 Investigação de incidentes e identificação de causa raiz;
+- 📊 Análise técnica em logs, APIs, banco de dados e fluxos críticos;
+- ⚙️ Versionamento de sistemas em fluxos automáticos e manuais;
+- 🧪 Validação de ambientes produtivos e acompanhamento pós-release;
+- 🛠️ Correção de bugs, ajustes técnicos e apoio à manutenção de sistemas;
+- 📈 Geração de relatórios, consultas SQL e análises para tomada de decisão;
+- 🧩 Análise e manutenção de customizações específicas por cliente.
 
-👉 Atuação direta em sistemas de e-commerce com impacto real em vendas, operação e experiência do cliente.
+👉 Atuação direta em sistemas de **e-commerce**, com impacto real em **vendas**, **operação**, **estabilidade** e **experiência do cliente**.
 
-## 🧠 Competências
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-### ✔️ Qualificações Pessoais
 
-👉🏽 `Organização` <br/>
-👉🏽 `Responsabilidade` <br/>
-👉🏽 `Pensamento lógico` <br/>
-👉🏽 `Disciplina` <br/>
-👉🏽 `Pontualidade e assiduidade` <br/>
-👉🏽 `Ética profissional` <br/>
-👉🏽 `Foco em qualidade` <br/>
+## 💼 Perfil profissional
 
-<!--👉🏽 `Criatividade` 80% <br/>
-👉🏽 `Organização` 100% <br/>
-👉🏽 `Comunicação` 70% <br/>
-👉🏽 `Pontualidade` 100% <br/>
-👉🏽 `Assiduidade` 100% <br/>
-👉🏽 `Motivação` 90% <br/>
-👉🏽 `Conduta Ética` 100% <br/>-->
+| Característica | Descrição |
+|---|---|
+| **Perfil comportamental** | Analista Planejador |
+| **Estilo de trabalho** | Organizado, lógico, detalhista e responsável |
+| **Forma de pensar** | Analisa o contexto, entende a causa e age com método |
+| **Pontos fortes** | Aprendizado rápido, atenção aos detalhes, foco, empatia e responsabilidade |
+| **Forma de atuar** | Prioriza clareza, qualidade, previsibilidade e segurança nas entregas |
+| **Diferencial profissional** | Une raciocínio técnico, visão prática de sistemas e compromisso com estabilidade |
 
-### ✔️ Qualificações Profissionais (Hard Skills)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-👉🏽 `Backend Development` <br/>
-👉🏽 `Suporte técnico avançado` <br/>
-👉🏽 `Versionamento e pós-versionamento de sistemas` <br/>
-👉🏽 `Análise e investigação de incidentes` <br/>
-👉🏽 `Relatórios técnicos e consultas em banco de dados` <br/>
-👉🏽 `Validação de ambientes produtivos` <br/>
-👉🏽 `Manutenção, estabilidade e continuidade de sistemas` <br/>
+## 📚 Competências
 
-<!--👉🏽 `Pacote Office` 95% <br/>
-👉🏽 `Informática` 90% <br/>
-👉🏽 `Front-End` 80% <br/>
-👉🏽 `Back-End` 85% <br/>
-👉🏽 `Finanças e Investimentos` 85% <br/>
-👉🏽 `Fotografia` 95% <br/>
-👉🏽 `Planejamento e Cronogramas` 85% <br/>-->
+| 🛠️ Técnicas | ⚙️ Operacionais |
+|---|---|
+| `Backend Development` | `Suporte técnico avançado` |
+| `PHP, SQL, JavaScript, HTML e CSS` | `Versionamento e pós-release de sistemas` |
+| `APIs e integrações` | `Validação de ambientes produtivos` |
+| `Banco de dados e consultas SQL` | `Diagnóstico de problemas em produção` |
+| `Git, GitLab e versionamento de código` | `Análise e investigação de incidentes` |
+| `Docker, Linux e ambiente de desenvolvimento` | `Identificação de causa raiz` |
+| `Manutenção, estabilidade e continuidade de sistemas` | `Análise de impacto pós-release` |
+| `Qualidade e boas práticas de desenvolvimento` | `Padronização de processos técnicos` |
 
-### ✔️ Competências Técnicas Operacionais
+<br>
 
-👉🏽 `Diagnóstico de problemas em produção` <br/>
-👉🏽 `Análise de impacto pós-release` <br/>
-👉🏽 `Atenção a detalhes e cenários críticos` <br/>
-👉🏽 `Padronização de processos técnicos` <br/>
-👉🏽 `Organização e priorização de demandas técnicas` <br/>
-👉🏽 `Comunicação técnica clara e objetiva` <br/>
+| 🧠 Pessoais | 💼 Profissionais |
+|---|---|
+| `Pensamento analítico` | `Comunicação técnica clara e objetiva` |
+| `Raciocínio lógico` | `Organização e priorização de demandas` |
+| `Organização e disciplina` | `Atenção a detalhes e cenários críticos` |
+| `Responsabilidade e comprometimento` | `Autonomia com responsabilidade` |
+| `Aprendizado contínuo` | `Consistência nas entregas` |
+| `Ética profissional` | `Comprometimento com resultados` |
+| `Resiliência e evolução contínua` | `Foco em qualidade, segurança e previsibilidade` |
 
-### ✔️ Competências Comportamentais
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-👉🏽 `Comprometimento com resultados` <br/>
-👉🏽 `Consistência na entrega` <br/>
-👉🏽 `Autonomia com responsabilidade` <br/>
-👉🏽 `Pensamento analítico` <br/>
-👉🏽 `Aprendizado contínuo` <br/>
+## 📈 Estatísticas do GitHub
 
-<!--## ⚙️ Estatísticas do Github
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vcdm100&show_icons=true&theme=vision-friendly-dark" alt="vcdm100 stats"/>
-<br/><br/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcdm100&layout=compact&theme=vision-friendly-dark" alt="vcdm100's most languages"/>
-</p>-->
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vcdm100&theme=github-dark-blue&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&locale=pt_BR" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 🏆 Destaques do perfil
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vcdm100&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 📊 Gráfico de atividade
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcdm100&bg_color=0d1117&color=00c853&line=0077b5&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 🧭 Roadmap de evolução
+
+- [x] Transição da **Engenharia Civil** para a **Tecnologia**;
+- [x] Formação em **Análise e Desenvolvimento de Sistemas (ADS)**;
+- [x] Atuação como **Programador Backend Júnior**;
+- [x] Experiência prática com **PHP, SQL, APIs, Git, Docker e Linux**;
+- [x] Vivência em **e-commerce SaaS**, suporte técnico avançado, versionamento e pós-release;
+- [ ] Evoluir tecnicamente em **Desenvolvimento Backend**, com foco no nível Pleno;
+- [ ] Expandir projetos e portfólio técnico no GitHub.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 📫 Contatos
+
+<div align="center">
+
+<a href="mailto:vitaomoura100@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/victor-cl%C3%A1udio-deosdede-moura-pcd-1845a5137/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/vcdm100" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.instagram.com/vcdm100/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.facebook.com/Vcdm100/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+<!--<a href="https://api.whatsapp.com/send?phone=5581982428445" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>-->
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 💬 Frase que me representa
+
+```txt
+Observar com atenção.
+Entender com lógica.
+Aplicar com responsabilidade.
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+<br>
+
+<div align="center">
+
+### Obrigado por visitar meu perfil! 💚
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0077B5,50:00C853,100:0D1117&section=footer" />
