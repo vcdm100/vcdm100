@@ -9,7 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=vcdm100&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00c853&style=for-the-badge" alt="Visualizações do perfil" />
   <img src="https://img.shields.io/github/followers/vcdm100?style=for-the-badge&color=0077B5&label=Seguidores&logo=github" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/vcdm100?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0D1117&label=Stars&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/vcdm100?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=DC7D49&label=Stars&logo=github" alt="Stars" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
