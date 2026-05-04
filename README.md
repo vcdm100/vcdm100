@@ -83,13 +83,13 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas pr√°ticas, racioc√
 <code><img width="40px" src="https://3.bp.blogspot.com/--IDvjPRCaic/Vs9FDDfvHOI/AAAAAAAABDU/5umla_6QjBI/s1600/Eclipse-luna.png" title = "Eclipse"/></code>
 -->
 
-<br>
+<!--<div align="center">
 
-<div align="center">
+<br> 
 
 ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitLab](https://img.shields.io/badge/GitLab-Versionamento-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![API](https://img.shields.io/badge/API-Integra%C3%A7%C3%B5es-0A66C2?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise%20e%20Dados-00618A?style=for-the-badge)
 
-</div>
+</div>-->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
