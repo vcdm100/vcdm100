@@ -69,7 +69,7 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 ### ⚙️ Ferramentas e Ambiente
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman" /> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor" />
 
 <!--<code><img width="40" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "INSOMIA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title = "JQUERY"/></code>
