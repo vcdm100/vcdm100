@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Victor Cláudio! ⏳ 😉
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Desenvolvedor+Backend+J%C3%BAnior+%7C+E-commerce+SaaS;Sustenta%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Sistemas+%7C+Versionamento+%26+P%C3%B3s-release;PHP+%7C+SQL+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+APIs+%7C+Git+%7C+Docker+%7C+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Desenvolvedor+Backend+J%C3%BAnior+%7C+E-commerce+SaaS;Sustenta%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Sistemas+%7C+Versionamento+%26+P%C3%B3s-release;PHP+%7C+SQL+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+APIs+%7C+Git+%7C+Docker+%7C+Linux+%7C+IA+Aplicada)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vcdm100&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00c853&style=for-the-badge" alt="Visualizações do perfil" />
