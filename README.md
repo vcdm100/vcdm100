@@ -67,7 +67,7 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 ### ⚙️ Ferramentas e Ambiente
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,notion,figma" /> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,notion,figma" /> <img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" title="Codex" /> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
