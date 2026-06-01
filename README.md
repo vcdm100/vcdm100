@@ -18,7 +18,7 @@
 
 ## ✨ Sobre mim
 
-Sou **Desenvolvedor Backend Júnior**, pessoa surda e usuária de Libras, com atuação em **e-commerce SaaS**, **sustentação de sistemas**, **versionamento**, **pós-release** e **análise técnica de ambientes produtivos**.
+Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **sustentação de sistemas**, **versionamento**, **pós-release** e **análise técnica de ambientes produtivos**.
 
 Tenho uma trajetória construída entre **Engenharia Civil** e **Tecnologia**, unindo raciocínio lógico, organização, visão analítica e foco em qualidade.
 
