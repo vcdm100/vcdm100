@@ -135,7 +135,7 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-## 🏆 Destaques do perfil
+<!--## 🏆 Destaques do perfil
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />-->
 
 ## 📊 Gráfico de atividade
 
