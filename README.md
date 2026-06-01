@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5f6f6f,50:57d68d,100:5ab0d1&section=header" />
 
-# 👋 Olá, eu sou Victor Cláudio! ⏳ :wink:
+# 👋 Olá, eu sou Victor Cláudio! ⏳ 😉
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Desenvolvedor+Backend+J%C3%BAnior+%7C+E-commerce+SaaS;Sustenta%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Sistemas+%7C+Versionamento+%26+P%C3%B3s-release;PHP+%7C+SQL+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+APIs+%7C+Git+%7C+Docker+%7C+Linux)](https://git.io/typing-svg)
 
@@ -18,16 +18,14 @@
 
 ## ✨ Sobre mim
 
-Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **suporte técnico avançado**, **análise de sistemas**, **versionamento**, **pós-release** e **sustentação de ambientes produtivos**.
+Sou **Desenvolvedor Backend Júnior**, pessoa surda e usuária de Libras, com atuação em **e-commerce SaaS**, **sustentação de sistemas**, **versionamento**, **pós-release** e **análise técnica de ambientes produtivos**.
 
 Tenho uma trajetória construída entre **Engenharia Civil** e **Tecnologia**, unindo raciocínio lógico, organização, visão analítica e foco em qualidade.
 
-Sou apaixonado por **tecnologia** e **aprendizado contínuo**, sempre buscando evoluir tecnicamente e entregar soluções com qualidade.
-
-- 🧏‍♂️ Pessoa **surda**, com comunicação profissional apoiada por tecnologia, escrita objetiva e acessibilidade;
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**;
-- 🏗️ Engenheiro Civil, com registro ativo no **CREA-PE**;
-- 💼 Cargo atual: **Programador Backend Júnior**;
+- 🧏‍♂️ Pessoa **surda** - Libras é minha primeira língua, comunicação profissional apoiada por tecnologia, escrita objetiva e acessibilidade;
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**;
+- 🏗️ Formado em **Engenharia Civil**, com registro ativo no **CREA-PE**;
+- 💼 Cargo atual: **Programador Backend Júnior na Uappi**;
 - 📚 Formação contínua em **tecnologia**, **desenvolvimento** e **boas práticas**;
 - 💡 Interesses: **programação**, **tecnologia**, **investimentos** e **evolução pessoal**.
 
@@ -71,31 +69,11 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,notion,figma" /> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor" />
 
-<!--<code><img width="40" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "INSOMIA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title = "JQUERY"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT.JS"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title = "VITE"/></code>
-<code><img width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" title = "NODE.JS"/></code>
-<code><img width="30px" src="https://vetores.org/d/figma.svg" title = "FIGMA"/></code>
-<code><img width="40px" src="https://dbeaver.com/img/dbeaver-head.png" title = "DBeaver"/></code>
-<code><img width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" title = "DISCORD"/></code>
-<code><img width="40px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title = "Insomnia"/></code>
-<code><img width="40px" src="https://3.bp.blogspot.com/--IDvjPRCaic/Vs9FDDfvHOI/AAAAAAAABDU/5umla_6QjBI/s1600/Eclipse-luna.png" title = "Eclipse"/></code>
--->
-
-<!--<div align="center">
-
-<br> 
-
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitLab](https://img.shields.io/badge/GitLab-Versionamento-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![API](https://img.shields.io/badge/API-Integra%C3%A7%C3%B5es-0A66C2?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise%20e%20Dados-00618A?style=for-the-badge)
-
-</div>-->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🚀 Experiência prática
 
-- 🔍 Investigação de incidentes e identificação de causa raiz;
+- 🔍 Investigação de incidentes e identificação de causa raiz em ambientes produtivos;
 - 📊 Análise técnica em logs, APIs, banco de dados e fluxos críticos;
 - ⚙️ Versionamento de sistemas em fluxos automáticos e manuais;
 - 🧪 Validação de ambientes produtivos e acompanhamento pós-release;
@@ -106,7 +84,6 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 👉 Atuação direta em sistemas de **e-commerce**, com impacto real em **vendas**, **operação**, **estabilidade** e **experiência do cliente**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
-
 
 ## 💼 Perfil profissional
 
@@ -215,10 +192,6 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 </a>
 
 </div>
-
-<!--<a href="https://api.whatsapp.com/send?phone=5581982428445" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>-->
 
 <br>
 
