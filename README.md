@@ -41,11 +41,12 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 ## 🧱 Engenharia de Software na prática
 
-Atualmente, venho aprofundando meus conhecimentos em Engenharia de Software por meio do desenvolvimento de projetos reais utilizando Laravel. Nesse processo, aplico conceitos de modelagem de dados, regras de negócio, autenticação, versionamento com Git/GitHub, documentação técnica, testes automatizados e revisão de código.
+Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software** por meio do desenvolvimento de projetos reais utilizando **Laravel**. Nesse processo, aplico conceitos de **modelagem de dados**, **regras de negócio**, **autenticação**, **versionamento com Git/GitHub**, **documentação técnica**, **testes automatizados** e **revisão de código**.
 
-Além da implementação de funcionalidades, busco compreender todo o ciclo de construção de software, desde a análise do problema até a entrega da solução, sempre priorizando organização, rastreabilidade, qualidade e manutenção de longo prazo.
+Além da implementação de funcionalidades, busco compreender todo o **ciclo de construção de software**, desde a análise do problema até a entrega da solução, sempre priorizando **organização**, **rastreabilidade**, **qualidade** e **manutenção de longo prazo**.
 
-Essa experiência tem fortalecido minha visão sobre produto, arquitetura de sistemas, processos de desenvolvimento e boas práticas de engenharia, contribuindo para a construção de aplicações mais seguras, confiáveis e sustentáveis.
+Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura de sistemas**, **processos de desenvolvimento** e **boas práticas de engenharia**, contribuindo para a construção de aplicações mais **seguras**, **confiáveis** e **sustentáveis**.
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🧠 Método Victor Tech
