@@ -83,16 +83,16 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 ## 🚀 Experiência prática
 
-- 🔍 Investigação de incidentes e identificação de causa raiz em ambientes produtivos;
-- 📊 Análise técnica em logs, APIs, banco de dados e fluxos críticos;
-- ⚙️ Versionamento de sistemas em fluxos automáticos e manuais;
-- 🧪 Validação de ambientes produtivos e acompanhamento pós-release;
-- 🛠️ Correção de bugs, ajustes técnicos e apoio à manutenção de sistemas;
-- 📈 Geração de relatórios, consultas SQL e análises para tomada de decisão;
-- 🧩 Análise e manutenção de customizações específicas por cliente;
-- 🧱 Evolução prática em projeto web real com **Laravel**, **MariaDB**, **Blade**, **Tailwind**, **Git/GitHub**, **testes automatizados** e documentação técnica.
+- 🔍 **Investigação de incidentes** e **análise de causa raiz** em ambientes produtivos;
+- 📊 Análise técnica de **logs**, **APIs**, **banco de dados** e fluxos críticos;
+- ⚙️ **Versionamento de sistemas** em fluxos automáticos e manuais;
+- 🧪 Validação de ambientes produtivos e acompanhamento **pós-release**;
+- 🛠️ Correção de bugs, manutenção e **melhoria contínua** de sistemas;
+- 📈 **Consultas SQL**, geração de relatórios e apoio à tomada de decisão;
+- 🧩 Análise e manutenção de **customizações específicas por cliente**;
+- 🧱 Aplicação prática de **Engenharia de Software** em projeto real utilizando **Laravel**, **MariaDB**, **Blade**, **Tailwind**, **Git/GitHub**, **testes automatizados** e **documentação técnica**.
 
-👉 Atuação direta em sistemas de **e-commerce**, com impacto real em **vendas**, **operação**, **estabilidade** e **experiência do cliente**.
+👉 Atuação direta em plataformas de **e-commerce SaaS**, contribuindo para a **estabilidade dos sistemas**, a **continuidade da operação**, as **vendas** e a **experiência dos usuários**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
