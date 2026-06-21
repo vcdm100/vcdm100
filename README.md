@@ -18,7 +18,7 @@
 
 ## ✨ Sobre mim
 
-Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **sustentação de sistemas**, **versionamento**, **pós-release** e **análise técnica de ambientes produtivos**.
+Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **sustentação**, **versionamento**, **pós-release** e **análise técnica de ambientes produtivos**.
 
 Tenho uma trajetória construída entre **Engenharia Civil** e **Tecnologia**, unindo raciocínio lógico, organização, visão analítica e foco em qualidade.
 
@@ -41,10 +41,11 @@ Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, racioc�
 
 ## 🧱 Engenharia de Software na prática
 
-Atualmente, venho aprofundando minha evolução em **Engenharia de Software na prática**, desenvolvendo um projeto web real em **Laravel** com **sprints**, **documentação técnica**, **Git/GitHub**, **autenticação**, **regras de negócio**, **banco de dados**, **testes automatizados** e **revisão de PRs**.
+Atualmente, venho aprofundando meus conhecimentos em Engenharia de Software por meio do desenvolvimento de projetos reais utilizando Laravel. Nesse processo, aplico conceitos de modelagem de dados, regras de negócio, autenticação, versionamento com Git/GitHub, documentação técnica, testes automatizados e revisão de código.
 
-Essa experiência tem fortalecido minha **visão de produto**, **qualidade de código**, **rastreabilidade** e construção de sistemas com **impacto real**.
+Além da implementação de funcionalidades, busco compreender todo o ciclo de construção de software, desde a análise do problema até a entrega da solução, sempre priorizando organização, rastreabilidade, qualidade e manutenção de longo prazo.
 
+Essa experiência tem fortalecido minha visão sobre produto, arquitetura de sistemas, processos de desenvolvimento e boas práticas de engenharia, contribuindo para a construção de aplicações mais seguras, confiáveis e sustentáveis.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🧠 Método Victor Tech
