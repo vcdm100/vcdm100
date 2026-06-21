@@ -170,12 +170,12 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 - [x] Transição da **Engenharia Civil** para a **Tecnologia**;
 - [x] Formação em **Análise e Desenvolvimento de Sistemas (ADS)**;
-- [x] Atuação como **Programador Backend Júnior**;
-- [x] Experiência prática com **PHP, SQL, APIs, Git, Docker e Linux**;
-- [x] Vivência em **e-commerce SaaS**, suporte técnico avançado, versionamento e pós-release;
-- [x] Evolução prática em projeto web real com **Laravel**, sprints, documentação, testes e PRs;
-- [ ] Evoluir tecnicamente em **Desenvolvimento Backend**, com foco no nível Pleno;
-- [ ] Expandir projetos e portfólio técnico no GitHub.
+- [x] Evolução profissional de **Assistente Backend** para **Programador Backend Júnior**;
+- [x] Experiência prática com **PHP**, **Laravel**, **SQL**, **APIs**, **Git**, **Docker**, **Linux**, **JavaScript**, **HTML**, **CSS** e *IA Aplicada**;
+- [x] Vivência em *e-commerce SaaS**, **sustentação**, **versionamento** e **pós-release**;
+- [x] Aplicação prática de **Engenharia de Software** em projeto real com Laravel, sprints, documentação técnica, testes automatizados e revisão de código;
+- [ ] Evoluir para **Desenvolvedor Backend Pleno**, ampliando conhecimentos em arquitetura, qualidade de software e sistemas escaláveis;
+- [ ] Expandir **projetos** e **portfólio técnico** no GitHub.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
