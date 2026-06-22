@@ -41,7 +41,7 @@ Busco desenvolver soluções com qualidade, clareza, rastreabilidade e impacto r
 
 ## 🧱 Engenharia de Software na prática
 
-Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software** por meio do desenvolvimento de projetos reais utilizando **Laravel**, **PHP**, **SQL**, **Git/GitHub**, **modelagem de dados**, **regras de negócio**, **documentação técnica**, **testes automatizados** e **revisão de código*.
+Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software** por meio do desenvolvimento de projetos reais utilizando **Laravel**, **PHP**, **SQL**, **Git/GitHub**, **modelagem de dados**, **regras de negócio**, **documentação técnica**, **testes automatizados** e **revisão de código**.
 
 Além da implementação de funcionalidades, busco compreender todo o **ciclo de construção de software**, desde a análise do problema até a entrega da solução, sempre priorizando **organização**, **rastreabilidade**, **qualidade** e **manutenção de longo prazo**.
 
