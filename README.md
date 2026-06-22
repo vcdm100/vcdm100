@@ -22,30 +22,30 @@ Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **s
 
 Tenho uma trajetória construída entre **Engenharia Civil** e **Tecnologia**, unindo raciocínio lógico, organização, visão analítica e foco em qualidade.
 
-- 🧏‍♂️ Pessoa **surda** - Libras é minha primeira língua, comunicação profissional apoiada por tecnologia, escrita objetiva e acessibilidade;
-- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**;
+- 🧏‍♂️ Pessoa **surda**, usuário de **Libras**, com comunicação profissional apoiada por tecnologia, escrita objetiva e acessibilidade;
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**;
 - 🏗️ Formado em **Engenharia Civil**, com registro ativo no **CREA-PE**;
-- 💼 Cargo atual: **Programador Backend Júnior na Uappi**;
-- 📚 Formação contínua em **tecnologia**, **desenvolvimento** e **boas práticas**;
-- 💡 Interesses: **programação**, **tecnologia**, **investimentos** e **evolução pessoal**.
+- 💼 Atuação atual como **Programador Backend Júnior na Uappi**;
+- 📚 Formação contínua em **Backend**, **Engenharia de Software**, **Laravel**, **SQL**, **APIs**, **Git**, **Docker** e **boas práticas**;
+- 💡 Interesse em **tecnologia**, **resolução de problemas**, **arquitetura de software** e **evolução profissional**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🎯 Objetivo profissional
 
-Atuar na área de tecnologia com foco em **Desenvolvimento Backend**, contribuindo para a criação, manutenção e evolução de sistemas organizados, seguros, escaláveis e bem estruturados.
+Atuar e evoluir na área de tecnologia com foco em **Desenvolvimento Backend**, contribuindo para a criação, manutenção e evolução de sistemas organizados, seguros, confiáveis e bem estruturados.
 
-Busco evoluir tecnicamente como desenvolvedor, aplicando boas práticas, raciocínio lógico e responsabilidade para entregar soluções com qualidade, confiabilidade e impacto real.
+Busco desenvolver soluções com qualidade, clareza, rastreabilidade e impacto real, aplicando boas práticas de Engenharia de Software no dia a dia.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🧱 Engenharia de Software na prática
 
-Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software** por meio do desenvolvimento de projetos reais utilizando **Laravel**. Nesse processo, aplico conceitos de **modelagem de dados**, **regras de negócio**, **autenticação**, **versionamento com Git/GitHub**, **documentação técnica**, **testes automatizados** e **revisão de código**.
+Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software** por meio do desenvolvimento de projetos reais utilizando **Laravel**, **PHP**, **SQL**, **Git/GitHub**, **modelagem de dados**, **regras de negócio**, **documentação técnica**, **testes automatizados** e **revisão de código*.
 
 Além da implementação de funcionalidades, busco compreender todo o **ciclo de construção de software**, desde a análise do problema até a entrega da solução, sempre priorizando **organização**, **rastreabilidade**, **qualidade** e **manutenção de longo prazo**.
 
-Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura de sistemas**, **processos de desenvolvimento** e **boas práticas de engenharia**, contribuindo para a construção de aplicações mais **seguras**, **confiáveis** e **sustentáveis**.
+Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura de sistemas**, **processos de desenvolvimento**, **sustentação** e **boas práticas de engenharia**, contribuindo para a construção de aplicações mais **seguras**, **confiáveis** e **sustentáveis**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
