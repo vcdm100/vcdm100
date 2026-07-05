@@ -77,9 +77,7 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 ### ⚙️ Ferramentas, Ambiente e IA
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,notion,figma" />
-
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" title="OpenAI Codex" /><img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor AI" /><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" /><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" title="Google Gemini" /><img height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" title="Claude AI" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,notion,figma" /> <img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" title="OpenAI Codex" /> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor AI" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" title="Google Gemini" /> <img height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" title="Claude AI" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
