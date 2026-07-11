@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5f6f6f,50:57d68d,100:5ab0d1&section=header" />
 
-# 👋 Olá, eu sou Victor Cláudio! ⏳ 😉
+# 👋 Olá, eu sou Victor Cláudio! ⏳ 😊
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Desenvolvedor+Backend+J%C3%BAnior+%7C+E-commerce+%7C+SaaS;Sustenta%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Sistemas+%7C+Versionamento+%26+P%C3%B3s-release;PHP+%7C+Laravel+%7C+SQL+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+APIs+%7C+Git+%7C+Docker+%7C+Linux+%7C+IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Desenvolvedor+Backend+%7C+Engenharia+de+Software;SaaS+%7C+E-commerce+%7C+Sustenta%C3%A7%C3%A3o+de+Sistemas;Versionamento+%7C+P%C3%B3s-release+%7C+An%C3%A1lise+de+Incidentes;PHP+%7C+Laravel+%7C+SQL+%7C+APIs+%7C+Docker+%7C+Linux+%7C+IA+Aplicada)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vcdm100&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00c853&style=for-the-badge" alt="Visualizações do perfil" />
@@ -18,34 +18,63 @@
 
 ## ✨ Sobre mim
 
-Sou **Desenvolvedor Backend Júnior**, com atuação em **e-commerce SaaS**, **sustentação**, **versionamento**, **pós-release** e **análise técnica de ambientes produtivos**.
+Sou **Desenvolvedor Backend**, profissional surdo e usuário de **Libras**, com comunicação profissional apoiada por tecnologia, escrita objetiva e atenção à acessibilidade.
 
-Tenho uma trajetória construída entre **Engenharia Civil** e **Tecnologia**, unindo raciocínio lógico, organização, visão analítica e foco em qualidade.
+Tenho experiência em ambientes **SaaS de e-commerce**, atuando com **sustentação de sistemas em produção**, **investigação de incidentes**, **análise técnica**, **versionamentos**, **pós-release** e **melhoria contínua**.
 
-- 🧏‍♂️ Pessoa **surda**, usuário de **Libras**, com comunicação profissional apoiada por tecnologia, escrita objetiva e acessibilidade;
+Minha trajetória reúne formações em **Engenharia Civil** e **Análise e Desenvolvimento de Sistemas (ADS)**, combinação que fortalece meu raciocínio lógico, minha visão analítica, minha organização e minha capacidade de resolver problemas de forma estruturada.
+
+- 🧏‍♂️ Profissional surdo e usuário de **Libras**;
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**;
-- 🏗️ Formado em **Engenharia Civil**, com registro ativo no **CREA-PE**;
-- 💼 Atuação atual como **Programador Backend Júnior na Uappi**;
-- 📚 Formação contínua em **Backend**, **Engenharia de Software**, **Laravel**, **SQL**, **APIs**, **Git**, **Docker** e **boas práticas**;
-- 💡 Interesse em **tecnologia**, **resolução de problemas**, **arquitetura de software** e **evolução profissional**.
+- 🏗️ Formado em **Engenharia Civil**, com registro no **CREA-PE**;
+- 💼 Experiência profissional como **Assistente Backend** e **Programador Backend Júnior**;
+- 🛒 Vivência prática em **SaaS**, **e-commerce**, **sustentação** e **ambientes produtivos**;
+- 🚀 Em busca de novas oportunidades em **Desenvolvimento Backend**, **Sustentação de Sistemas** e **Engenharia de Software**.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 🧭 Trajetória profissional
+
+Iniciei minha carreira em tecnologia sem experiência prática, atuando como **Assistente Backend em Suporte Técnico**. Ao longo da jornada, evoluí para **Programador Backend Júnior**, assumi novas responsabilidades e ampliei minha atuação em sustentação, análise técnica, incidentes, versionamentos e pós-release.
+
+Durante esse período:
+
+- Investiguei incidentes e analisei causas-raiz em ambientes produtivos;
+- Acompanhei releases e validei impactos pós-versionamento;
+- Executei versionamentos automáticos e manuais;
+- Analisei logs, APIs, bancos de dados e comportamentos do sistema;
+- Documentei processos e conhecimentos técnicos;
+- Propus melhorias para organização, segurança e previsibilidade dos fluxos;
+- Contribuí com alinhamentos entre diferentes equipes;
+- Alcancei recordes de demandas concluídas;
+- Recebi reconhecimentos como **“Máquina de Versionamento”** e **“Dono do Versionamento”**.
+
+Essa experiência consolidou minha paixão por **e-commerce**, **SaaS**, **sustentação de sistemas** e **Engenharia de Software aplicada ao ambiente real de produção**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🎯 Objetivo profissional
 
-Atuar e evoluir na área de tecnologia com foco em **Desenvolvimento Backend**, contribuindo para a criação, manutenção e evolução de sistemas organizados, seguros, confiáveis e bem estruturados.
+Busco novas oportunidades para atuar e evoluir em **Desenvolvimento Backend**, **Sustentação de Sistemas**, **SaaS**, **e-commerce** e **Engenharia de Software**.
 
-Busco desenvolver soluções com qualidade, clareza, rastreabilidade e impacto real, aplicando boas práticas de Engenharia de Software no dia a dia.
+Quero contribuir com soluções estáveis, úteis, bem estruturadas e que gerem impacto real para usuários, equipes e empresas, sempre com foco em qualidade, clareza, rastreabilidade e manutenção de longo prazo.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🧱 Engenharia de Software na prática
 
-Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software** por meio do desenvolvimento de projetos reais utilizando **Laravel**, **PHP**, **SQL**, **Git/GitHub**, **modelagem de dados**, **regras de negócio**, **documentação técnica**, **testes automatizados** e **revisão de código**.
+Venho aprofundando meus conhecimentos em **Engenharia de Software** por meio de projetos utilizando **Laravel**, **PHP**, **SQL**, **Git/GitHub**, **modelagem de dados**, **regras de negócio**, **documentação técnica**, **testes automatizados** e **revisão de código**.
 
-Além da implementação de funcionalidades, busco compreender todo o **ciclo de construção de software**, desde a análise do problema até a entrega da solução, sempre priorizando **organização**, **rastreabilidade**, **qualidade** e **manutenção de longo prazo**.
+Procuro compreender todo o ciclo de construção de software, desde a análise do problema até a entrega da solução, priorizando:
 
-Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura de sistemas**, **processos de desenvolvimento**, **sustentação** e **boas práticas de engenharia**, contribuindo para a construção de aplicações mais **seguras**, **confiáveis** e **sustentáveis**.
+- Organização;
+- Rastreabilidade;
+- Qualidade;
+- Confiabilidade;
+- Manutenção de longo prazo;
+- Impacto para o negócio.
+
+Essa abordagem fortalece minha visão sobre produto, arquitetura, processos de desenvolvimento, sustentação e melhoria contínua.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
@@ -55,27 +84,25 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 | 👀 Observar | 🧠 Entender | 🛠️ Aplicar |
 |---|---|---|
-| Analiso o contexto, os sinais e os detalhes antes de tomar qualquer decisão. | Identifico a causa raiz, compreendo a lógica do problema e conecto as informações. | Aplico a solução de forma prática, clara e segura, validando o resultado. |
+| Analiso o contexto, os sinais e os detalhes antes de tomar decisões. | Identifico a causa raiz, compreendo a lógica e conecto as informações. | Aplico a solução de forma prática, clara e segura, validando o resultado. |
 
 </div>
 
-> **"Antes de agir, eu observo. Antes de resolver, eu entendo. Depois, aplico com lógica, responsabilidade e clareza."**
+> **“Antes de agir, eu observo. Antes de resolver, eu entendo. Depois, aplico com lógica, responsabilidade e clareza.”**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-## 🛠️ Linguagens, Tecnologias e Ferramentas
+## 🛠️ Linguagens, tecnologias e ferramentas
 
-### 💻 Linguagens e Tecnologias
+### 💻 Linguagens e tecnologias
 
 <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,python,java" />
 
-### 🗄️ Banco de Dados
+### 🗄️ Bancos de dados
 
-<img src="https://skillicons.dev/icons?i=mysql" /><img height="48" src="https://www.edivaldobrito.com.br/wp-content/uploads/2021/12/mariadb-mudou-a-programacao-em-seu-cronograma-de-lancamento.webp" title="MariaDB" />
-<img height="48" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver" />
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" />
+<img src="https://skillicons.dev/icons?i=mysql" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" /> <img height="48" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver" />
 
-### ⚙️ Ferramentas, Ambiente e IA
+### ⚙️ Ferramentas, ambiente e IA
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,notion,figma" /> <img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" title="OpenAI Codex" /> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GQ-U3AIXVJ-usRrHvNiIwd2AP-vJZbK9Q&s" title="Cursor AI" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" title="Google Gemini" /> <img height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" title="Claude AI" />
 
@@ -83,16 +110,34 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 ## 🚀 Experiência prática
 
-- 🔍 **Investigação de incidentes** e **análise de causa raiz** em ambientes produtivos;
-- 📊 Análise técnica de **logs**, **APIs**, **banco de dados** e fluxos críticos;
-- ⚙️ **Versionamento de sistemas** em fluxos automáticos e manuais;
-- 🧪 Validação de ambientes produtivos e acompanhamento **pós-release**;
-- 🛠️ Correção de bugs, manutenção e **melhoria contínua** de sistemas;
-- 📈 **Consultas SQL**, geração de relatórios e apoio à tomada de decisão;
-- 🧩 Análise e manutenção de **customizações específicas por cliente**;
-- 🧱 Aplicação prática de **Engenharia de Software** em projeto real utilizando **Laravel**, **MariaDB**, **Blade**, **Tailwind**, **Git/GitHub**, **testes automatizados** e **documentação técnica**.
+- 🔍 Investigação de incidentes e análise de causa raiz em ambientes produtivos;
+- 📊 Análise técnica de logs, APIs, bancos de dados e fluxos críticos;
+- ⚙️ Versionamento de sistemas em fluxos automáticos e manuais;
+- 🧪 Validação de ambientes produtivos e acompanhamento pós-release;
+- 🛠️ Correção de bugs, manutenção e melhoria contínua de sistemas;
+- 📈 Consultas SQL, geração de relatórios e apoio à tomada de decisão;
+- 🧩 Análise e manutenção de customizações específicas por cliente;
+- 📝 Documentação técnica, padronização de processos e organização de conhecimento;
+- 🤝 Alinhamento técnico entre equipes para apoiar diagnósticos e soluções;
+- 🧱 Aplicação prática de Engenharia de Software em projetos com Laravel, MariaDB, Blade, Tailwind, Git/GitHub, testes automatizados e documentação.
 
-👉 Atuação direta em plataformas de **e-commerce SaaS**, contribuindo para a **estabilidade dos sistemas**, a **continuidade da operação**, as **vendas** e a **experiência dos usuários**.
+👉 Experiência direta em plataformas reais de **e-commerce SaaS**, contribuindo para a estabilidade dos sistemas, a continuidade das operações e a experiência dos usuários.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
+
+## 🤖 Inteligência Artificial aplicada
+
+Utilizo ferramentas de Inteligência Artificial como apoio para:
+
+- Análise técnica;
+- Documentação;
+- Organização de informações;
+- Produtividade;
+- Revisão de soluções;
+- Apoio ao desenvolvimento;
+- Melhoria da qualidade técnica.
+
+Sempre aplico IA com responsabilidade, clareza, senso crítico e validação humana.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
@@ -100,12 +145,12 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 | Característica | Descrição |
 |---|---|
-| **Perfil comportamental** | Analista Planejador |
+| **Perfil comportamental** | Analista e planejador |
 | **Estilo de trabalho** | Organizado, lógico, detalhista e responsável |
-| **Forma de pensar** | Analisa o contexto, entende a causa e age com método |
-| **Pontos fortes** | Aprendizado rápido, atenção aos detalhes, foco, empatia e responsabilidade |
-| **Forma de atuar** | Prioriza clareza, qualidade, previsibilidade e segurança nas entregas |
-| **Diferencial profissional** | Une raciocínio técnico, visão prática de sistemas e compromisso com estabilidade |
+| **Forma de pensar** | Observa o contexto, entende a causa e age com método |
+| **Pontos fortes** | Aprendizado contínuo, atenção aos detalhes, foco e responsabilidade |
+| **Forma de atuar** | Prioriza clareza, qualidade, previsibilidade e segurança |
+| **Diferencial** | Une raciocínio técnico, visão prática de sistemas e compromisso com estabilidade |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
@@ -113,26 +158,25 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 | 🛠️ Técnicas | ⚙️ Operacionais |
 |---|---|
-| `Backend Development com PHP e Laravel` | `Suporte técnico avançado` |
-| `PHP, Laravel, SQL, JavaScript, HTML e CSS` | `Versionamento e pós-release de sistemas` |
+| `Backend com PHP e Laravel` | `Sustentação de sistemas` |
+| `PHP, Laravel, SQL e JavaScript` | `Versionamento e pós-release` |
 | `APIs e integrações` | `Validação de ambientes produtivos` |
-| `Banco de dados e consultas SQL` | `Diagnóstico de problemas em produção` |
-| `Git, GitHub, GitLab e versionamento de código` | `Análise e investigação de incidentes` |
-| `Docker, Linux e ambiente de desenvolvimento` | `Identificação de causa raiz` |
-| `Manutenção, estabilidade e continuidade de sistemas` | `Análise de impacto pós-release` |
-| `Testes automatizados e boas práticas de desenvolvimento` | `Padronização de processos técnicos` |
+| `Bancos de dados e consultas SQL` | `Diagnóstico de problemas em produção` |
+| `Git, GitHub e GitLab` | `Investigação de incidentes` |
+| `Docker e Linux` | `Análise de causa raiz` |
+| `Testes e boas práticas` | `Análise de impacto pós-release` |
+| `Documentação técnica` | `Padronização de processos` |
 
 <br>
 
 | 🧠 Pessoais | 💼 Profissionais |
 |---|---|
-| `Pensamento analítico` | `Comunicação técnica clara e objetiva` |
-| `Raciocínio lógico` | `Organização e priorização de demandas` |
-| `Organização e disciplina` | `Atenção a detalhes e cenários críticos` |
-| `Responsabilidade e comprometimento` | `Autonomia com responsabilidade` |
-| `Aprendizado contínuo` | `Consistência nas entregas` |
+| `Pensamento analítico` | `Comunicação técnica clara` |
+| `Raciocínio lógico` | `Organização e priorização` |
+| `Atenção aos detalhes` | `Autonomia com responsabilidade` |
+| `Responsabilidade` | `Consistência nas entregas` |
+| `Aprendizado contínuo` | `Foco em qualidade e previsibilidade` |
 | `Ética profissional` | `Comprometimento com resultados` |
-| `Resiliência e evolução contínua` | `Foco em qualidade, segurança e previsibilidade` |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
@@ -146,16 +190,6 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-<!--## 🏆 Destaques do perfil
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vcdm100&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />-->
-
 ## 📊 Gráfico de atividade
 
 <div align="center">
@@ -168,14 +202,16 @@ Essa experiência tem fortalecido minha visão sobre **produto**, **arquitetura 
 
 ## 🧭 Roadmap de evolução
 
-- [x] Transição da **Engenharia Civil** para a **Tecnologia**;
-- [x] Formação em **Análise e Desenvolvimento de Sistemas (ADS)**;
-- [x] Evolução profissional de **Assistente Backend** para **Programador Backend Júnior**;
-- [x] Experiência prática com **PHP**, **Laravel**, **SQL**, **APIs**, **Git**, **Docker**, **Linux**, **JavaScript**, **HTML**, **CSS** e **IA Aplicada**;
-- [x] Vivência em **e-commerce SaaS**, **sustentação**, **versionamento** e **pós-release**;
-- [x] Aplicação prática de **Engenharia de Software** em projeto real com Laravel, sprints, documentação técnica, testes automatizados e revisão de código;
-- [ ] Evoluir para **Desenvolvedor Backend Pleno**, ampliando conhecimentos em arquitetura, qualidade de software e sistemas escaláveis;
-- [ ] Expandir **projetos** e **portfólio técnico** no GitHub.
+- [x] Transição da Engenharia Civil para a Tecnologia;
+- [x] Formação em Análise e Desenvolvimento de Sistemas;
+- [x] Evolução de Assistente Backend para Programador Backend Júnior;
+- [x] Experiência com PHP, Laravel, SQL, APIs, Git, Docker e Linux;
+- [x] Vivência em e-commerce SaaS, sustentação, versionamento e pós-release;
+- [x] Aplicação prática de Engenharia de Software em projetos reais;
+- [x] Experiência com documentação técnica e melhoria de processos;
+- [ ] Ampliar projetos públicos e fortalecer o portfólio técnico;
+- [ ] Aprofundar conhecimentos em arquitetura e qualidade de software;
+- [ ] Evoluir profissionalmente para Desenvolvedor Backend Pleno.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
