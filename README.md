@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5f6f6f,50:57d68d,100:5ab0d1&section=header" />
 
-# 👋 Olá, eu sou Victor Cláudio! ⏳ 😊
+# 👋 Olá, eu sou Victor Cláudio! ⏳😊
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Desenvolvedor+Backend+%7C+Engenharia+de+Software;SaaS+%7C+E-commerce+%7C+Sustenta%C3%A7%C3%A3o+de+Sistemas;Versionamento+%7C+P%C3%B3s-release+%7C+An%C3%A1lise+de+Incidentes;PHP+%7C+Laravel+%7C+SQL+%7C+APIs+%7C+Docker+%7C+Linux+%7C+IA+Aplicada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Desenvolvedor+Backend+%7C+Engenharia+de+Software;SaaS+%7C+E-commerce+%7C+Sustenta%C3%A7%C3%A3o+e+Análise+de+Sistemas;Versionamento+e+P%C3%B3s-release+%7C+PHP+%7C+Laravel+%7C+SQL+%7C+APIs;JavaScript+%7C+Docker+%7C+Linux+%7C+IA+Aplicada)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vcdm100&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00c853&style=for-the-badge" alt="Visualizações do perfil" />
@@ -18,63 +18,92 @@
 
 ## ✨ Sobre mim
 
-Sou **Desenvolvedor Backend**, profissional surdo e usuário de **Libras**, com comunicação profissional apoiada por tecnologia, escrita objetiva e atenção à acessibilidade.
+Sou **Desenvolvedor Backend** com visão de **Engenharia de Software** e experiência em plataformas **SaaS de e-commerce**.
 
-Tenho experiência em ambientes **SaaS de e-commerce**, atuando com **sustentação de sistemas em produção**, **investigação de incidentes**, **análise técnica**, **versionamentos**, **pós-release** e **melhoria contínua**.
+Meu foco é manter sistemas em produção estáveis, compreender por que as falhas acontecem e contribuir para soluções seguras, organizadas, de fácil manutenção e voltadas à melhoria contínua dos ambientes produtivos.
 
-Minha trajetória reúne formações em **Engenharia Civil** e **Análise e Desenvolvimento de Sistemas (ADS)**, combinação que fortalece meu raciocínio lógico, minha visão analítica, minha organização e minha capacidade de resolver problemas de forma estruturada.
+🧏‍♂️ Sou profissional **surdo** e **Libras** é minha primeira língua. No ambiente de trabalho, comunico-me por meio da escrita, da tecnologia e de recursos de acessibilidade. Essa experiência também fortalece minha atenção à clareza da documentação, à organização dos processos e à inclusão.
 
-- 🧏‍♂️ Profissional surdo e usuário de **Libras**;
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**;
-- 🏗️ Formado em **Engenharia Civil**, com registro no **CREA-PE**;
-- 💼 Experiência profissional como **Assistente Backend** e **Programador Backend Júnior**;
-- 🛒 Vivência prática em **SaaS**, **e-commerce**, **sustentação** e **ambientes produtivos**;
-- 🚀 Em busca de novas oportunidades em **Desenvolvimento Backend**, **Sustentação de Sistemas** e **Engenharia de Software**.
+Atuo principalmente nas seguintes frentes:
+
+- Investigação de **incidentes** e **análise de causa raiz**, examinando **logs**, **bancos de dados**, **integrações de APIs** e **comportamentos do sistema**;
+- **Versionamentos**, acompanhamento **pós-release** e **validação da estabilidade dos ambientes**;
+- **Levantamento de requisitos**, **modelagem de dados**, **testes**, **revisão de código** e **documentação técnica**.
+
+Minha stack principal é composta por **PHP, Laravel, SQL, JavaScript, Git, Docker e Linux**, além de conhecimentos em **Java, Python, HTML e CSS**. Ao longo da minha trajetória, desenvolvi uma visão prática do ciclo de vida do software, contribuindo para a continuidade das operações, a estabilidade dos sistemas e a melhoria da experiência dos usuários.
+
+🎓 Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e em **Engenharia Civil**. Essa combinação fortalece meu raciocínio lógico, minha visão analítica e minha capacidade de compreender problemas, avaliar impactos e riscos e construir soluções de forma estruturada.
+
+Também utilizo ferramentas de **Inteligência Artificial (IA)** como apoio em análises, documentação, organização de informações e produtividade, sempre com responsabilidade, clareza e senso crítico.
+
+🏗️ Adoto uma abordagem própria de raciocínio, que chamo de **Método Victor Tech: Observar → Entender → Aplicar**. Ele representa minha forma de investigar problemas, aprender continuamente e desenvolver soluções de maneira lógica, analítica e prática.
+
+Além da atuação em tecnologia, trabalho voluntariamente na **Federação Pernambucana Desportiva de Surdos (FPEDS)**, contribuindo nas **áreas administrativa, financeira, tecnológica e de comunicação**, com foco em acessibilidade, organização e inclusão da comunidade surda.
+
+🚀 Estou em busca de novas oportunidades para aprofundar meus conhecimentos e contribuir com soluções estáveis, úteis e de qualidade, que gerem valor para usuários, equipes e empresas.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🧭 Trajetória profissional
 
-Iniciei minha carreira em tecnologia sem experiência prática, atuando como **Assistente Backend em Suporte Técnico**. Ao longo da jornada, evoluí para **Programador Backend Júnior**, assumi novas responsabilidades e ampliei minha atuação em sustentação, análise técnica, incidentes, versionamentos e pós-release.
+Minha trajetória profissional começou na **Engenharia Civil**, área em que concluí minha primeira graduação. Durante o período da pandemia, passei a refletir com mais profundidade sobre o futuro profissional e sobre o impacto crescente da tecnologia nas empresas e na sociedade. Conversas com empresários e profissionais de diferentes áreas também contribuíram para ampliar essa visão.
+
+A afinidade com **matemática, lógica e tecnologia**, porém, já fazia parte dos meus interesses há bastante tempo. Em **2021**, comecei a pesquisar de forma mais aprofundada sobre programação, mercado de tecnologia, desenvolvimento de software e possibilidades de carreira na área.
+
+Em **2022**, tomei uma das decisões mais importantes da minha trajetória: iniciar uma **transição planejada de carreira para tecnologia**. Passei a participar de programas de formação, iniciei minha segunda graduação em **Análise e Desenvolvimento de Sistemas (ADS)** e conquistei **duas bolsas de estudos em programas promovidos por empresas**, que foram fundamentais para minha preparação profissional.
+
+Durante aproximadamente um ano, concentrei meus estudos nos fundamentos da programação, linguagens de desenvolvimento, lógica, bancos de dados, tecnologia e dados, além de buscar compreender não apenas como programar, mas também como funciona o mercado e a rotina profissional de desenvolvimento de software.
+
+Após essa preparação e formação complementar, comecei a buscar minha primeira oportunidade profissional na área.
+
+### 💻 Experiência profissional em tecnologia
+
+Iniciei minha carreira em tecnologia como **Assistente Backend em Suporte Técnico**, ainda construindo minha primeira experiência prática profissional. Ao longo da jornada, evoluí para **Programador Backend Júnior**, assumi novas responsabilidades e ampliei minha atuação em sustentação de sistemas, análise técnica, incidentes, versionamentos, releases e pós-release.
 
 Durante esse período:
 
-- Investiguei incidentes e analisei causas-raiz em ambientes produtivos;
-- Acompanhei releases e validei impactos pós-versionamento;
-- Executei versionamentos automáticos e manuais;
-- Analisei logs, APIs, bancos de dados e comportamentos do sistema;
-- Documentei processos e conhecimentos técnicos;
-- Propus melhorias para organização, segurança e previsibilidade dos fluxos;
-- Contribuí com alinhamentos entre diferentes equipes;
-- Alcancei recordes de demandas concluídas;
-- Recebi reconhecimentos como **“Máquina de Versionamento”** e **“Dono do Versionamento”**.
+* Investiguei incidentes e analisei **causas-raiz em ambientes produtivos**;
+* Acompanhei releases e validei impactos após versionamentos;
+* Executei versionamentos automáticos e manuais;
+* Analisei **logs, APIs, bancos de dados e comportamentos do sistema**;
+* Documentei processos e conhecimentos técnicos;
+* Propus melhorias voltadas à **organização, segurança e previsibilidade dos fluxos**;
+* Contribuí com alinhamentos entre diferentes equipes;
+* Alcancei recordes de demandas concluídas;
+* Recebi reconhecimentos internos como **“Máquina de Versionamento”** e **“Dono do Versionamento”**.
 
-Essa experiência consolidou minha paixão por **e-commerce**, **SaaS**, **sustentação de sistemas** e **Engenharia de Software aplicada ao ambiente real de produção**.
+Essa experiência confirmou minha decisão de migrar para tecnologia e consolidou meu interesse por **desenvolvimento backend, e-commerce, SaaS, sustentação de sistemas e Engenharia de Software aplicada a ambientes reais de produção**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🎯 Objetivo profissional
 
-Busco novas oportunidades para atuar e evoluir em **Desenvolvimento Backend**, **Sustentação de Sistemas**, **SaaS**, **e-commerce** e **Engenharia de Software**.
+Busco novas oportunidades para continuar evoluindo como Desenvolvedor Backend, Analista de Sistemas e Engenheiro de Software, atuando principalmente com sistemas web, SaaS, e-commerce, APIs, integrações e sustentação de sistemas.
 
-Quero contribuir com soluções estáveis, úteis, bem estruturadas e que gerem impacto real para usuários, equipes e empresas, sempre com foco em qualidade, clareza, rastreabilidade e manutenção de longo prazo.
+Quero contribuir para a construção e evolução de soluções estáveis, seguras, bem estruturadas e sustentáveis, que resolvam problemas reais e gerem valor para usuários, equipes e negócios.
+
+Tenho especial interesse em ambientes nos quais possa aprofundar conhecimentos em arquitetura de software, qualidade de código, testes, modelagem de dados, observabilidade, automação e boas práticas de Engenharia de Software, participando cada vez mais do ciclo completo de desenvolvimento de produtos.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🧱 Engenharia de Software na prática
 
-Venho aprofundando meus conhecimentos em **Engenharia de Software** por meio de projetos utilizando **Laravel**, **PHP**, **SQL**, **Git/GitHub**, **modelagem de dados**, **regras de negócio**, **documentação técnica**, **testes automatizados** e **revisão de código**.
+Venho aprofundando meus conhecimentos em Engenharia de Software por meio de projetos práticos, utilizando tecnologias e conceitos como Laravel, PHP, SQL, Git/GitHub, APIs, modelagem de dados, regras de negócio, documentação técnica, testes automatizados e revisão de código.
 
-Procuro compreender todo o ciclo de construção de software, desde a análise do problema até a entrega da solução, priorizando:
+Mais do que implementar funcionalidades, procuro compreender o ciclo completo de construção e evolução de um software: análise do problema, definição das regras de negócio, modelagem da solução, desenvolvimento, testes, documentação, entrega, sustentação e melhoria contínua.
 
-- Organização;
-- Rastreabilidade;
-- Qualidade;
-- Confiabilidade;
-- Manutenção de longo prazo;
-- Impacto para o negócio.
+Durante esse processo, priorizo:
 
-Essa abordagem fortalece minha visão sobre produto, arquitetura, processos de desenvolvimento, sustentação e melhoria contínua.
+- Organização e legibilidade do código;
+- Rastreabilidade das alterações e decisões;
+- Qualidade e testes automatizados;
+- Confiabilidade e segurança;
+- Modelagem adequada das regras de negócio;
+- Manutenção e evolução de longo prazo;
+- Documentação técnica;
+- Impacto da solução para usuários e negócio.
+
+Essa abordagem vem ampliando minha visão além da implementação de código, fortalecendo conhecimentos relacionados a arquitetura, produto, processos de desenvolvimento, qualidade, sustentação e evolução contínua de sistemas.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
@@ -100,7 +129,8 @@ Essa abordagem fortalece minha visão sobre produto, arquitetura, processos de d
 
 ### 🗄️ Bancos de dados
 
-<img src="https://skillicons.dev/icons?i=mysql" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" /> <img height="48" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver" />
+<img src="https://skillicons.dev/icons?i=mysql" /> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" /> <img height="48" src="https://github.com/user-attachments/assets/65b48e51-de23-4d8b-a153-e0b925633eb7" title="DBeaver" />
+
 
 ### ⚙️ Ferramentas, ambiente e IA
 
@@ -177,16 +207,6 @@ Sempre aplico IA com responsabilidade, clareza, senso crítico e validação hum
 | `Responsabilidade` | `Consistência nas entregas` |
 | `Aprendizado contínuo` | `Foco em qualidade e previsibilidade` |
 | `Ética profissional` | `Comprometimento com resultados` |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vcdm100&theme=github-dark-blue&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&locale=pt_BR" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
