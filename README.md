@@ -46,7 +46,7 @@ Também desenvolvi trabalho voluntário na **Federação Pernambucana Desportiva
 
 ## 🧭 Trajetória profissional
 
-Minha trajetória profissional começou na **Engenharia Civil**, área em que concluí minha primeira graduação em 2020. Com o tempo, meu interesse por matemática, lógica e tecnologia passou a ocupar um espaço cada vez maior nas minhas decisões profissionais.
+Minha trajetória profissional começou na **Engenharia Civil**, área em que concluí minha primeira graduação em **2020**. Com o tempo, meu interesse por matemática, lógica e tecnologia passou a ocupar um espaço cada vez maior nas minhas decisões profissionais.
 
 Em **2021**, comecei a pesquisar de forma mais aprofundada programação, desenvolvimento de software e o mercado de tecnologia. Em **2022**, iniciei uma transição planejada de carreira, participei de programas de formação, conquistei **duas bolsas de estudos promovidas por empresas** e comecei minha segunda graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
