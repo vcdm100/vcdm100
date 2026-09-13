@@ -198,16 +198,6 @@ Sempre utilizo esses recursos com **revisão, responsabilidade, senso crítico e
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
-## 📊 Gráfico de atividade
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcdm100&bg_color=0d1117&color=00c853&line=0077b5&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
-
 ## 🧭 Roadmap de evolução
 
 - [x] Transição da Engenharia Civil para a Tecnologia;
